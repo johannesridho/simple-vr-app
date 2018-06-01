@@ -29,3 +29,6 @@ A simple Virtual Reality application using Unity and intended to be deployed to 
   c. Select More Settings 
   d. Toggle Developer Mode on
 ```
+
+## Screenshot
+![alt text](https://raw.githubusercontent.com/johannesridho/simple-vr-app/master/app-screenshot.png)
