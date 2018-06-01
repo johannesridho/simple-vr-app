@@ -257,7 +257,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4287198627233576, guid: bdd91695cfcf4b643963af1fce587ef5, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 20
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 4287198627233576, guid: bdd91695cfcf4b643963af1fce587ef5, type: 2}
       propertyPath: m_LocalRotation.x
@@ -307,15 +307,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: a1c2fd1129af1443f9743e64045a3965, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a1c2fd1129af1443f9743e64045a3965, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.3
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a1c2fd1129af1443f9743e64045a3965, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -20
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a1c2fd1129af1443f9743e64045a3965, type: 3}
       propertyPath: m_LocalRotation.x
@@ -465,7 +465,7 @@ BoxCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: 0.5, z: 0}
 --- !u!1001 &1587644106
 Prefab:
   m_ObjectHideFlags: 0
